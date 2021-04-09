@@ -2,6 +2,7 @@ package com.uiframework.tests;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 import com.uiframework.pages.UiframeworkEj1;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;

@@ -2,6 +2,7 @@ package com.uiframework.tests;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import com.uiframework.pages.UiframeworkEj2;
 
